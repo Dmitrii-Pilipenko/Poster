@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Akzidenz-Grotesk Pro";
+    src: url('../assets/fonts/akzidenzgroteskpro_bold.ttf');
+    font-weight: 1000;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Akzidenz-Grotesk Pro";
+    src: url('../assets/fonts/akzidenzgroteskpro_md.ttf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Akzidenz-Grotesk Pro";
+    src: url('../assets/fonts/akzidenzgroteskpro_boldcnit.ttf');
+    font-weight: 1000;
+    font-style: italic;
+}
+
