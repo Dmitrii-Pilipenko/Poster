@@ -1,21 +1,41 @@
 @font-face {
-    font-family: "Akzidenz-Grotesk Pro";
-    src: url('../assets/fonts/akzidenzgroteskpro_bold.ttf');
+    font-family: "Unbounded";
+    src: url(../assets/fonts/Unbounded-Black.ttf);
     font-weight: 1000;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "Akzidenz-Grotesk Pro";
-    src: url('../assets/fonts/akzidenzgroteskpro_md.ttf');
+    font-family: "Unbounded";
+    src: url(../assets/fonts/Unbounded-SemiBold.ttf);
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "Akzidenz-Grotesk Pro";
-    src: url('../assets/fonts/akzidenzgroteskpro_boldcnit.ttf');
-    font-weight: 1000;
-    font-style: italic;
+    font-family: "Unbounded";
+    src: url(../assets/fonts/Unbounded-Light.ttf);
+    font-weight: 200;
+    font-style: normal;
 }
 
+@font-face {
+    font-family: "Unbounded";
+    src: url(../assets/fonts/Unbounded-ExtraLight.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Unbounded";
+    src: url(../assets/fonts/Unbounded-Medium.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Unbounded";
+    src: url(../assets/fonts/Unbounded-Regular.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
